@@ -1,1 +1,1 @@
-pub mod hamming;
+pub mod rustyham;
