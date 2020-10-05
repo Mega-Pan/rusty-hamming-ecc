@@ -1,7 +1,7 @@
 # rusty-hamming-ecc
 
 ## About 
-This is a educational rust huffman ECC (error-checking-code)
+This is a educational rust hamming code ECC (error-checking-code)
 
 ## Usage
 ``` Script
