@@ -1,4 +1,4 @@
-# rusty-huffman-ecc
+# rusty-hamming-ecc
 
 ## About 
 This is a educational rust huffman ECC (error-checking-code)
